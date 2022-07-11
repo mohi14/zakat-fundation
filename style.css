@@ -61,6 +61,7 @@ body {
 .article p {
     font-size: 18px;
     margin-bottom: 40px;
+
 }
 
 .article-text {
@@ -160,4 +161,20 @@ a {
     gap: 25px;
     align-items: center;
     margin-left: 50px;
+}
+
+footer {
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 40px 0;
+}
+
+footer h1 {
+    font-family: 'Lobster', cursive;
+    color: tomato;
+}
+
+footer p {
+    color: white;
+    font-weight: 700;
 }
