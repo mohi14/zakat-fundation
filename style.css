@@ -9,11 +9,11 @@ body {
     background-size: cover;
     color: white;
     background-position: center;
-    padding-bottom: 250px;
-    position: absolute;
+    height: 720px;
+
 }
 
-h1 {
+.banner h1 {
     margin: 0;
     font-weight: 700;
     font-size: 55px;
@@ -21,7 +21,7 @@ h1 {
 }
 
 .banner-container {
-    margin: 180px 700px 0 219px;
+    padding: 180px 700px 0 219px;
 }
 
 .banner-container p {
@@ -37,4 +37,32 @@ h1 {
     border-radius: 5px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.video {
+    margin: 150px 150px 100px 150px;
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+
+.video img {
+    width: 456px;
+    height: 477px;
+    border-radius: 5px;
+}
+
+.video h1 {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.video p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.video-text {
+    margin-top: 50px;
 }
