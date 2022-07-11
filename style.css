@@ -95,3 +95,19 @@ body {
     height: 225px;
     padding: 50px 25px 50px 25px;
 }
+
+.images {
+    margin: 120px 150px 120px 180px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    margin-left: 180px;
+
+}
+
+.images img {
+    width: 364px;
+    height: 391px;
+    border-radius: 10px;
+}
