@@ -39,30 +39,30 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.video {
+.article {
     margin: 150px 150px 100px 150px;
     display: flex;
     flex-direction: row;
     gap: 80px;
 }
 
-.video img {
+.article img {
     width: 456px;
     height: 477px;
     border-radius: 5px;
 }
 
-.video h1 {
+.article h1 {
     font-size: 40px;
     font-weight: 700;
     margin: 0;
 }
 
-.video p {
+.article p {
     font-size: 18px;
     margin-bottom: 40px;
 }
 
-.video-text {
+.article-text {
     margin-top: 50px;
 }
