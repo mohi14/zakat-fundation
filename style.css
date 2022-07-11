@@ -27,6 +27,7 @@ body {
 .banner-container p {
     font-size: 18px;
     margin-bottom: 40px;
+    margin-left: 0;
 }
 
 .link-button {
@@ -37,6 +38,7 @@ body {
     border-radius: 5px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    margin-left: 0;
 }
 
 .article {
@@ -61,11 +63,13 @@ body {
 .article p {
     font-size: 18px;
     margin-bottom: 40px;
+    margin-left: 0;
 
 }
 
 .article-text {
     margin-top: 50px;
+    text-align: left;
 }
 
 .help-header h1 {
